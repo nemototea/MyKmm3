@@ -5,7 +5,6 @@ buildscript {
         mavenCentral()
     }
 
-    val kotlinVersion = "1.4.0"
     val sqlDelightVersion = "1.5.0"
 
     dependencies {
